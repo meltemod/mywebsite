@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online Communication | Meltem Odabas</title>
+    <link>/tags/online-communication/</link>
+      <atom:link href="/tags/online-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Online Communication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Online Communication</title>
+      <link>/tags/online-communication/</link>
+    </image>
+    
+    <item>
+      <title>Cultural Interaction and Community Membership</title>
+      <link>/project/reddit-music/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/reddit-music/</guid>
+      <description>&lt;p&gt;In this project I investigate how an individual’s positioning in the cultural space impacts the way other members of the community perceive them. Co-cultural affiliation networks is used in the literature to measure cultural omnivorousness, in other words, whether individuals affiliate themselves with atypical sets of cultural interests. While empirical analyses frequently rely on survey data, surveys do not provide information on other the community members’ perception of the participant based on their positioning in the cultural structure. Therefore, I use large-scale communication data from a popular discussion and news aggregation website, Reddit.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

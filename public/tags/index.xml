@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>social networks</title>
-      <link>/tags/social-networks/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/social-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Source Themes</title>
       <link>/tags/source-themes/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -29,18 +21,18 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <title>Co-prescription Networks</title>
+      <link>/tags/co-prescription-networks/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/co-prescription-networks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
+      <title>Online Communication</title>
+      <link>/tags/online-communication/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
+      <guid>/tags/online-communication/</guid>
       <description></description>
     </item>
     
