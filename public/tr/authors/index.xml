@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Meltem Odabas</title>
+    <link>/tr/authors/</link>
+      <atom:link href="/tr/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>tr</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/tr/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/tr/authors/admin/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tr/authors/admin/</guid>
+      <description>&lt;p&gt;My research investigates the role of interaction and communication networks in decision-making and behavior in a variety of social settings including markets, online communication platforms, and social movements. I mainly use quantitative data using various methods, including statistical methods and regression analyses, social network analysis (SNA) and computational methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brea L Perry</title>
+      <link>/tr/authors/brea-l-perry/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tr/authors/brea-l-perry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carrie B Oser</title>
+      <link>/tr/authors/carrie-b-oser/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tr/authors/carrie-b-oser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaehyuk Park</title>
+      <link>/tr/authors/jaehyuk-park/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tr/authors/jaehyuk-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffery Talbert</title>
+      <link>/tr/authors/jeffery-talbert/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tr/authors/jeffery-talbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kai Cheng Yang</title>
+      <link>/tr/authors/kai-cheng-yang/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tr/authors/kai-cheng-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michelle Martel</title>
+      <link>/tr/authors/michelle-martel/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tr/authors/michelle-martel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patricia R Freeman</title>
+      <link>/tr/authors/patricia-r-freeman/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tr/authors/patricia-r-freeman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Kaminski</title>
+      <link>/tr/authors/patrick-kaminski/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tr/authors/patrick-kaminski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong-Yeol Ahn</title>
+      <link>/tr/authors/yong-yeol-ahn/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tr/authors/yong-yeol-ahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/tr/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/tr/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

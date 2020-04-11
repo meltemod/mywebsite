@@ -5,7 +5,49 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+
+[tr]
+  languageCode = "tr"
+  contentDir = "content/tr"
+  title = "Meltem Odabas"
+  [tr.params]
+    description = "Site description in Chinese..."
+  [[tr.menu.main]]
+    name = "CV"
+    url = "files/cv.pdf"
+    weight = 10
+    
+  [[tr.menu.main]]
+  name = "Yayinlar"
+  url = "publication_webpage/"
+  weight = 20
+
+  [[tr.menu.main]]
+  name = "Projeler"
+  url = "project_webpage/"
+  weight = 30
+
+  [[tr.menu.main]]
+  name = "Ogretim"
+  url = "teaching/"
+  weight = 40 
+  
+  [[tr.menu.main]]
+  name = "Dersler"
+  url = "courses/"
+  weight = 50
+  
+  [[tr.menu.main]]
+  name = "Blog"
+  url = "blog_webpage/"
+  weight = 60
+
+  [[tr.menu.main]]
+  name = "Iletisim"
+  url = "contact_webpage/"
+  weight = 60
+
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
